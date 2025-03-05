@@ -1,6 +1,6 @@
 # ComfyUI + Wan 2.1
 
-This script will get you up and running on runpod with ComfyUI with Wan 2.1
+This script will get you up and running with ComfyUI with Wan 2.1
 
 # Setup
 
