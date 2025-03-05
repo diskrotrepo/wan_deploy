@@ -1,5 +1,5 @@
 #!/bin/bash
-# diskrot: Quick ComyfyUI setup script for runpod
+# diskrot: Quick ComyfyUI setup script
 
 
 # Navigate to workspace
